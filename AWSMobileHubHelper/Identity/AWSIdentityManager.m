@@ -9,8 +9,6 @@
 
 #import "AWSIdentityManager.h"
 #import "AWSSignInProvider.h"
-#import "AWSFacebookSignInProvider.h"
-#import "AWSGoogleSignInProvider.h"
 #import "AWSSignInProviderFactory.h"
 
 NSString *const AWSIdentityManagerDidSignInNotification = @"com.amazonaws.AWSIdentityManager.AWSIdentityManagerDidSignInNotification";
